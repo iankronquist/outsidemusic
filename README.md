@@ -26,4 +26,11 @@ $ source hacking/bin/activate
 $ pip install -r requirements.txt
 ```
 
+To get the docs for this module:  
+```shell
+$ python
+>>> import rtmidi
+>>> help(rtmidi)
+```
+
 * go hack  
