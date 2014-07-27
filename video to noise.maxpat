@@ -44,7 +44,7 @@
 							"architecture" : "x86"
 						}
 ,
-						"rect" : [ 48.0, 72.0, 1296.0, 694.0 ],
+						"rect" : [ 18.0, 46.0, 1296.0, 694.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -63,6 +63,7 @@
 						"description" : "",
 						"digest" : "",
 						"tags" : "",
+						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"fontname" : "Arial",
@@ -4437,24 +4438,24 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-41::obj-29" : [ "note_gsharp", "note_gsharp", 0 ],
-			"obj-41::obj-37" : [ "note_g", "note_g", 0 ],
-			"obj-41::obj-31" : [ "note_fsharp", "note_fsharp", 0 ],
 			"obj-41::obj-38" : [ "note_f", "note_f", 0 ],
-			"obj-41::obj-39" : [ "note_e", "note_e", 0 ],
-			"obj-41::obj-40" : [ "note_dsharp", "note_dsharp", 0 ],
-			"obj-41::obj-41" : [ "note_d", "note_d", 0 ],
-			"obj-41::obj-26" : [ "note_asharp", "note_asharp", 0 ],
+			"obj-41::obj-36" : [ "row_lo1", "row_lo1", 0 ],
+			"obj-41::obj-31" : [ "note_fsharp", "note_fsharp", 0 ],
+			"obj-41::obj-35" : [ "row_lo1[1]", "row_lo1", 0 ],
 			"obj-41::obj-42" : [ "note_csharp", "note_csharp", 0 ],
 			"obj-41::obj-82" : [ "note_c", "note_c", 0 ],
-			"obj-41::obj-35" : [ "row_lo1[1]", "row_lo1", 0 ],
-			"obj-41::obj-36" : [ "row_lo1", "row_lo1", 0 ]
+			"obj-41::obj-26" : [ "note_asharp", "note_asharp", 0 ],
+			"obj-41::obj-37" : [ "note_g", "note_g", 0 ],
+			"obj-41::obj-41" : [ "note_d", "note_d", 0 ],
+			"obj-41::obj-29" : [ "note_gsharp", "note_gsharp", 0 ],
+			"obj-41::obj-40" : [ "note_dsharp", "note_dsharp", 0 ],
+			"obj-41::obj-39" : [ "note_e", "note_e", 0 ]
 		}
 ,
 		"dependency_cache" : [ 			{
 				"name" : "cv.jit.framesub.maxpat",
 				"bootpath" : "/Applications/Max 6.1/Cycling '74/cv.jit-support/Abstractions",
-				"patcherrelativepath" : "../../../Applications/Max 6.1/Cycling '74/cv.jit-support/Abstractions",
+				"patcherrelativepath" : "../../../../../Applications/Max 6.1/Cycling '74/cv.jit-support/Abstractions",
 				"type" : "JSON",
 				"implicit" : 1
 			}
